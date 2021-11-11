@@ -21,7 +21,7 @@ $ cd reminders
 docker-compose up -d --build
 ```
 
-### Check application
+### Usage
 ```bash
 $ curl http://localhost/api/reminders
 []
